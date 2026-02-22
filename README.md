@@ -67,16 +67,6 @@ Permite interacción con el usuario mediante consola, ofreciendo un sistema de o
 
 ---
 
-##  Requisitos del Sistema
-
-- Python 3.x instalado
-
-Verificar instalación:
-
-```bash
-python --version
-```
-
 ##  Instrucciones para Pruebas
 
 Al ejecutar el programa se mostrará un menú interactivo:
