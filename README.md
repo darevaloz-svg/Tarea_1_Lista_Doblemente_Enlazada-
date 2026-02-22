@@ -67,7 +67,7 @@ Permite interacción con el usuario mediante consola, ofreciendo un sistema de o
 
 ---
 
-## 🧪 Instrucciones Detalladas para Pruebas del Programa
+##  Instrucciones Detalladas para Pruebas del Programa
 
 Esta sección describe paso a paso cómo verificar el correcto funcionamiento de la lista doblemente enlazada mediante diferentes escenarios de prueba.
 
