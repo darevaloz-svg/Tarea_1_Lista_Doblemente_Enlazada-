@@ -26,7 +26,7 @@ class ListaDoblementeEnlazada:
             self.cabeza.anterior = nuevo
             self.cabeza = nuevo1
 
-        print("Nodo insertado al principio correctamente.")
+        print("Nodo insertado al inicio correctamente.")
 
     # Insertar al final
     def insertar_al_final(self, nombre, apellido, carnet):
