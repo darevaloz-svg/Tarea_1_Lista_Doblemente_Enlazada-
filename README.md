@@ -1,6 +1,6 @@
-# 📚 Implementación de Lista Doblemente Enlazada en Python
+#  Implementación de Lista Doblemente Enlazada en Python
 
-## 📖 Descripción General
+##  Descripción General
 
 Este proyecto consiste en la implementación completa de una **estructura de datos dinámica tipo Lista Doblemente Enlazada**
 
@@ -42,7 +42,7 @@ Cada nodo mantiene referencia tanto al nodo siguiente como al anterior, permitie
 
 ---
 
-### 2️⃣ Clase `ListaDoblementeEnlazada`
+###  Clase `ListaDoblementeEnlazada`
 
 Administra la estructura completa mediante:
 
@@ -91,23 +91,6 @@ Al ejecutar el programa se mostrará un menú interactivo:
 6. Salir
 ```
 
-###  Escenarios de prueba sugeridos
-
-✔ Insertar múltiples estudiantes al inicio  
-✔ Insertar múltiples estudiantes al final  
-✔ Eliminar un estudiante existente  
-✔ Intentar eliminar un carnet inexistente  
-✔ Mostrar lista en orden normal  
-✔ Mostrar lista en orden inverso  
-
-Esto permite validar:
-
-- Correcta actualización de punteros
-- Integridad de la lista
-- Funcionamiento bidireccional
-
----
-
 ##  Posibles Mejoras Futuras
 
 - Validación de entradas
@@ -119,6 +102,3 @@ Esto permite validar:
 
 ---
 
-## 👨‍💻 Autor
-
-Carlos Gonzales
